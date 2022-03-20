@@ -1,4 +1,3 @@
-
 fetch('https://STORE_URL_HERE/password', {
   method: 'POST',
   body: JSON.stringify({
